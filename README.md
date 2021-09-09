@@ -34,8 +34,9 @@ Examples, implemented as Spring Cloud Functions, using Spring Data Redis 2.6-M2
 
 ## See Also
 
-- [redis-whats-new](https://github.com/LeapAheadWithRedis6-2/redis-whats-new)
-- [slides](https://github.com/LeapAheadWithRedis6-2/slides)
+[redis-whats-new](https://github.com/LeapAheadWithRedis6-2/redis-whats-new)
+
+[slides](https://github.com/LeapAheadWithRedis6-2/slides)
 
 ## License
 
